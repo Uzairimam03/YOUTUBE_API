@@ -5,24 +5,19 @@ This is a backend project built with Node.js and Express.
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   
+```bash
+git clone <repository_url>
+ ```
 2. Navigate into the project directory:
-``bash
+ ```bash
 cd backend
-
+ ```
 3. Install dependencies:
-  ``bash
-npm install
-
-4.To run the project, use the following command:
- ``bash 
+```bash
+ npm install
+```
+4. To run the project, use the following command:
+```bash
 npm start
-
-Dependencies
-axios: For making HTTP requests.
-cors: Middleware for enabling Cross-Origin Request Sharing.
-dotenv: Loads environment variables from a .env file.
-express: The web framework for Node.js.
-googleapis: A library to interact with Google APIs.
+```
+After this the project will start
