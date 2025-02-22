@@ -8,12 +8,15 @@ This is a backend project built with Node.js and Express.
    ```bash
    git clone <repository_url>
 2- Navigate into the project directory:
+  ```bash
 cd backend
 
 3- Install dependencies:
+  ```bash
 npm install
 
 4-To run the project, use the following command:
+  ```bash
 npm start
 
 This will start the server and run src/index.js.
